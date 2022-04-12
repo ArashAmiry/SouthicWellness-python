@@ -2,7 +2,7 @@ import json
 
 import requests
 
-APIKEY = "/6yRpFLwTHvriZaYu9X08g==iR3nMv3bujN7DkUT"
+APIKEY = ""
 APIURL = "https://api.api-ninjas.com/v1/nutrition?query="
 class NutritionAPI():
 
